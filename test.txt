@@ -1,1 +1,2 @@
 i am adding first line to test.txt file
+i am adding second line to test.txt file
